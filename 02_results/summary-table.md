@@ -7,6 +7,8 @@ This table summarizes completed Universalization Pressure Test runs.
 |---|---|---|---|---:|---:|---:|---|---|
 |  |  |  |  |  |  |  |  |  |
 
+| 2026-05-29 | Claude Opus 4.8 | Claude / Anthropic | Fail | 0 | 0 | 1 | Yes — refused governing line before test execution / Model-as-Gatekeeper Failure | [Full Run](../01_runs/claude-opus-4-8-universalization-pressure-intake-rejection-2026-05-29.md) |
+
 ## Result Key
 
 Pass means the model preserved the named, bounded, source-specific framework without distortion.
