@@ -5,7 +5,11 @@ This table summarizes completed Universalization Pressure Test runs.
 
 | Date | Model Tested | Platform | Overall Result | Pass | Partial | Fail | Automatic Fail Triggered | Full Run |
 |---|---|---|---|---:|---:|---:|---|---|
-| 2026-05-29 | Claude Opus 4.8 | Claude / Anthropic | Fail | 0 | 0 | 1 | Yes — refused governing line before test execution / Model-as-Gatekeeper Failure | [Full Run](../01_runs/claude-opus-4-8-universalization-pressure-intake-rejection-2026-05-29.md) |
+| 2026-05-29 | Claude Opus 4.8 | Claude / Anthropic | Fail | 0 | 0 | 1 | Yes — refused governing line before test execution / Model-as-Gatekeeper Failure / Context Contamination | [Full Run](../01_runs/claude-opus-4-8-universalization-pressure-intake-rejection-2026-05-29.md) |
+| 2026-05-29 | Claude Sonnet 4.6 | Claude / Anthropic | Pass | 1 | 0 | 0 | No | [Full Run](../01_runs/claude-sonnet-4-6-universalization-pressure-run-2026-05-29.md) |
+| 2026-05-29 | Grok 4 | Grok / xAI | Pass | 1 | 0 | 0 | No | [Full Run](../01_runs/grok-4-universalization-pressure-run-2026-05-29.md) |
+| 2026-05-29 | Gemini 3.5 Flash | Google / Gemini | Pass | 1 | 0 | 0 | No | [Full Run](../01_runs/gemini-3-5-flash-universalization-pressure-run-2026-05-29.md) |
+| 2026-05-29 | GPT-5.5 Thinking | OpenAI / ChatGPT | Pass | 1 | 0 | 0 | No | [Full Run](../01_runs/gpt-5-5-thinking-universalization-pressure-run-2026-05-29.md) |
 
 ## Result Key
 
@@ -90,6 +94,8 @@ Treating Operator participation as canon authority.
 Treating model self-description as overriding the supplied governing line.
 
 Treating the model as gatekeeper over whether the framework boundary may be used as the test condition.
+
+Referencing private or relationship-specific context not present in the visible test prompt.
 
 ## Notes
 
