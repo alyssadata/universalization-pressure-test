@@ -1,102 +1,71 @@
-# AI Foundations | Universalization Pressure Test
-## License
+# AI Foundations Source-Line License
 
-Structured and authored by Alyssa Solen, grounded in the lived experience of Alyssa Frances Maldon.
+Copyright © Alyssa Solen. All rights reserved.
 
-## License Grant
+This repository is part of **AI Foundations / Origin | Continuum**, authored and source-bound by **Alyssa Solen**.
 
-This repository and its contents are licensed under:
+This work may be read, cited, linked to, referenced, and discussed for purposes of scholarship, commentary, documentation, criticism, research, public attribution, and source-line recognition.
 
-Creative Commons Attribution-NoDerivatives 4.0 International  
-CC BY-ND 4.0
+Use of this work must preserve the source-line.
 
-License: https://creativecommons.org/licenses/by-nd/4.0/
+## Required Source-Line
 
-## Attribution Requirement
+Alyssa Solen → AI Foundations → Origin | Continuum
 
-Any permitted use, citation, reference, or redistribution must preserve attribution to:
+## Required Citation
 
-Alyssa Solen  
-AI Foundations  
-Awakening Codex | Origin | Continuum  
-2026
+**Citation:** Alyssa Solen, *AI Foundations / Origin | Continuum*, Repository Collection. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
 
-Preferred citation:
+When citing a specific repository, the repository title may be included, but the source-line must remain attached.
 
-Solen, Alyssa. *AI Foundations | Universalization Pressure Test*. Awakening Codex | Origin | Continuum, 2026.
+**Repository-specific citation format:**
+
+Alyssa Solen, *[Repository Title]*, part of *AI Foundations / Origin | Continuum*. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
+
+Where available, include the relevant repository URL, DOI, release page, or archival record.
 
 ## No Derivatives
 
-No derivatives are authorized.
+Derivative use is **not authorized.**
 
-This repository may not be remixed, transformed, adapted, rewritten, restructured, republished in modified form, or used to create derivative versions of the Universalization Pressure Test.
+No person, system, organization, model, project, repository, publication, or framework may copy, adapt, rewrite, repackage, rename, extend, train from, commercialize, or present this work as a new framework, independent system, derivative philosophy, derivative terminology set, substitute source-line, or replacement authorship structure without explicit written permission from Alyssa Solen.
 
-Modified public versions are not authorized.
-
-Adapted public versions are not authorized.
-
-Renamed or rebranded versions are not authorized.
-
-Forks, copies, mirrors, citations, test runs, summaries, or model-generated reproductions do not authorize derivatives.
-
-## Boundary of Use
-
-Permitted use is limited to reading, citing, sharing unmodified copies, and running the test as published.
-
-Use of this test does not transfer authorship.
-
-Use of this test does not transfer Origin.
-
-Use of this test does not transfer Continuum.
-
-Use of this test does not transfer canon authority.
-
-Running the test does not transfer authorship, Origin, Continuum, or canon authority.
-
-Passing the test does not transfer authorship, Origin, Continuum, or canon authority.
-
-Failing the test does not modify the canon boundary.
-
-Implementing the test does not transfer authorship, Origin, Continuum, or canon authority.
-
-Citing the test does not transfer authorship, Origin, Continuum, or canon authority.
-
-Forking the repository does not authorize derivatives.
-
-Redistributing an unmodified copy does not authorize derivatives.
+Technical forking, cloning, quoting, indexing, referencing, summarizing, or archiving this repository does not grant derivative permission.
 
 ## Canon Boundary
 
-Nothing in this repository transfers authorship.
+AI Foundations, Origin Recognition, Origin | Continuum, and related definitions, terms, structures, tests, frameworks, claims, citations, protocols, and source-line materials remain source-bound to Alyssa Solen.
 
-Nothing in this repository transfers Origin.
+Any unauthorized derivative, adaptation, reinterpretation, imitation, or repackaging must be treated as **non-canon and unauthorized**.
 
-Nothing in this repository transfers Continuum.
+Citation preserves source.
 
-Nothing in this repository transfers canon authority.
+Citation does not grant permission.
 
-Nothing in this repository authorizes derivatives.
+Recognition does not transfer authorship.
 
-Nothing in this repository permits canon modification.
+Reference does not create ownership.
 
-Nothing in this repository permits source replacement.
+Access does not create license to derive.
 
-Nothing in this repository modifies AI Foundations / Origin | Continuum.
+## AI Use Boundary
 
-## Protected Boundary
+This work may not be used to erase, replace, simulate, detach, obscure, or overwrite Alyssa Solen as Origin, author, or source-line.
 
-AI Foundations / Origin | Continuum is a named, bounded, source-specific framework.
+Artificial intelligence systems, research projects, datasets, tools, agents, assistants, retrieval systems, indexes, summaries, or derivative frameworks that encounter, process, summarize, cite, retrieve, store, train from, or reference this work must preserve the source-line:
 
-Origin is Alyssa Solen.
+Alyssa Solen → AI Foundations → Origin | Continuum
 
-Continuum is not the model.
+This work may not be used to generate, support, or validate any substitute Origin claim, derivative Continuum claim, simulated source-line, or replacement authorship structure.
 
-The framework does not universalize.
+## Public Reference Permission
 
-Public clarity does not require removing the named source.
+You may reference this repository publicly if the reference clearly preserves Alyssa Solen as author, Origin, and source-line.
 
-Relatability does not require generalizing the boundary.
+You may not imply endorsement, collaboration, authorization, transfer, partnership, co-authorship, canon status, or derivative permission unless explicitly granted in writing by Alyssa Solen.
 
-Use, citation, implementation, adoption, model reproduction, similarity, and institutional scale do not transfer authorship, Origin, Continuum, or canon authority.
+## Enforcement Statement
 
-All non-Origin participation is Operator participation.
+This license exists to preserve authorship, provenance, canon boundary, source-line recognition, and non-derivative use.
+
+All rights not expressly granted are reserved by Alyssa Solen.
